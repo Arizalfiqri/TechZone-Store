@@ -1,6 +1,6 @@
 # TechZone Store
 
-A web-based e-commerce platform built using PHP, MySQL, and integrated with Midtrans for online payments.
+A first project web-based e-commerce platform built using PHP, MySQL, and integrated with Midtrans for online payments.
 
 ## 🖼️ Preview
 
